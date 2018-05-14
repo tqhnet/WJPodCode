@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WJPodCode_Example' do
+  pod 'WJPodCode', :path => '../'
+
+  target 'WJPodCode_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

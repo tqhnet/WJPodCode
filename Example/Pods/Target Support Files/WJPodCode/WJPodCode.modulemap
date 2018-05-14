@@ -1,0 +1,6 @@
+framework module WJPodCode {
+  umbrella header "WJPodCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

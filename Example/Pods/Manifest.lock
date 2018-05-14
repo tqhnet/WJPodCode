@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WJPodCode (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WJPodCode (from `../`)
+
+EXTERNAL SOURCES:
+  WJPodCode:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WJPodCode: 4bea372fa975c78edeb3d436a1932dd68a7e6f7c
+
+PODFILE CHECKSUM: f743406ea610b1e9f82d79a924fd6b3785050857
+
+COCOAPODS: 1.2.1

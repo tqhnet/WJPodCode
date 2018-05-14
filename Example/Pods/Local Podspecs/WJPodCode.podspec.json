@@ -1,0 +1,22 @@
+{
+  "name": "WJPodCode",
+  "version": "0.1.0",
+  "summary": "A short description of WJPodCode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tqh/WJPodCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tqh": "tqhnet@163.com"
+  },
+  "source": {
+    "git": "https://github.com/tqh/WJPodCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WJPodCode/Classes/**/*"
+}
